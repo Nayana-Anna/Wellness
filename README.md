@@ -19,3 +19,8 @@ Wellness is a comprehensive spa platform offering a range of rejuvenating servic
 * Skincare and Beauty Products: Access a curated selection of high-quality skincare products, beauty tools, and wellness items available for purchase, enabling customers to continue their self-care routines at home.
 
 ## Screenshots
+
+## Languages
+* html
+* css
+* javascript
